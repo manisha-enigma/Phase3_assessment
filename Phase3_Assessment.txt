@@ -11,5 +11,5 @@ Steps:
 - Performed Stress Testing.
 - Performed Spike Testing.
 
-GIT URL:
+GIT URL: https://github.com/manisha-enigma/Phase3_assessment
 All the supported files and screenshots are added in the zip folder.
