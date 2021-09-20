@@ -1,0 +1,15 @@
+Steps:
+
+- Sent a GET request using Postman to API and check list of users
+- Validated the Status codes generated for the above requests
+- Sent a POST request using Postman to API to add user and verified the response.
+- Wrote automation script for GET Request using Rest Assured
+- Wrote automation script for POST Request using Rest Assured
+- Generated Log on Eclipse Console using Log4j
+- Checked the above web services performance using JMeter
+- Performed Load Testing.
+- Performed Stress Testing.
+- Performed Spike Testing.
+
+GIT URL:
+All the supported files and screenshots are added in the zip folder.
